@@ -43,5 +43,5 @@ public class SearchResultPage extends TestBase {
 		boolean finalCheck = finalCartIcon.isDisplayed();
 		return finalCheck;
 	}
-	System.out.println("Edited in GITHUB")
+	System.out.println("Edited in GITHUB");
 }
