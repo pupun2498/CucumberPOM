@@ -48,5 +48,6 @@ public class TestBase {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.get(prop.getProperty("url"));
+		System.out.println("URL extracted from config files......For GITHUB purpose only");
 	}
 }
